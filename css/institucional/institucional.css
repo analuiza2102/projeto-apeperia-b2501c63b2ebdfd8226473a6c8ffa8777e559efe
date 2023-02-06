@@ -1,0 +1,61 @@
+.institucional{
+    background-color: #ffffff;
+    padding: 20px 0;
+}
+
+.institucional-texto{
+    text-align: center;
+    font-size: 1.2rem;
+    font-weight: 400;
+    margin: 0 0 1rem 0;
+    padding: 0;
+    color: #ad9696;
+    font-style: 'Open Sans', sans-serif;
+    font-weight: 400;
+    padding: 20px;
+}
+
+.texto-institucional{
+    color: #9e7d7d;
+    font-size: 1rem;
+    font-weight: 400;
+    margin: 0 0 1rem 0;
+    padding: 0;
+}
+
+.email-inst{
+    color: blue;
+}
+
+.rodape{
+    background-color: #1a0202;
+    padding: 20px 0;
+}
+
+.img-rodape{
+    width: 20px;
+    height: 20px;
+    margin: 20px;
+    padding: 0;
+    align-items: center;
+}
+
+.rodape-redes{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 0;
+    margin: 0 0 1rem 0;
+}
+.texto-rodape{
+    text-align: center;
+    font-size: 1.2rem;
+    font-weight: 400;
+    margin: 0 0 1rem 0;
+    padding: 0;
+    color: #ffffff;
+    font-style: 'Open Sans', sans-serif;
+    font-weight: 400;
+    padding: 20px;
+}

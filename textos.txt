@@ -1,0 +1,186 @@
+--- CABEÇALHO ---
+
+Texto alternativo da logo: Logo da Apeperia
+
+Sobre
+Planos
+Blog
+Destaques
+Institucional
+Contato
+
+--- CHAMADA ---
+
+Aplicativos na medida 
+para pequenas e medias empresas
+
+A Apeperia é uma start-up com um jeito inovador de comprar e montar aplicativos mobile e web. 
+Funciona assim: você contrata um dos nossos três excelentes planos e nós criamos, desenvolvemos e publicamos seu app multiplataforma de forma
+ acelerada e o melhor: se o app não bom, devolvemos seu dinheiro! 
+
+
+
+btn background #951111
+Conheça os planos color #FFFFFF
+
+
+--- DIFERENCIAIS ---
+
+Tempo
+Tempo é importante! Trabalhamos em ritmo acelerado, atendendo rigorosamente aos prazos.
+
+Foco
+Focamos no empreendimento! Oferecemos serviços de qualidade com preços acessíveis.
+
+Especialistas
+Equipe experiente e especializada! Testamos todos os produtos antes do lançamento.
+
+--- SOBRE ---
+
+Sobre
+
+CCriamos aplicativos personalizados de maneira diferente e para todos!
+ 
+Preocupados com o modelo atual em que um aplicativo é criado entregue e a manutenção é vista como um custo extra para o cliente, decidimos criar um novo modelo de negócio, em que você assina nosso serviço, nós criamos o aplicativo e a manutenção já é inclusa no serviço. Dessa maneira você não se preocupa com atualização, é tudo por nossa conta.
+                   
+Contamos com uma equipe especializada e exclusiva para projetos incríveis!
+
+
+icone apple- icone android- icone windows - icone blackberry
+
+
+Desenvolvemos aplicativos para todas as plataformas
+
+
+--- PLANOS ---
+
+Start background  #9B59B6
+
+R$ 500
+5 manutenções mensais
+App seo
+1 sistema operacional 
+Assinar plano background #951111
+
+
+
+Mega  #951111   
+
+R$ 1000
+10 manutenções mensais
+App Seo
+2 sistemas operacionais
+Assinar plano background #951111
+
+Ultra   background  #9B59B6
+
+R$ 1500
+20 manutenções mensais
+App SEO
+4 sistemas operacionais
+24h de atendimento
+Assinar plano background #951111
+
+
+
+
+---blog---
+alt: celular e teclado
+
+
+ Conheça os 10 aplicativos mais badalados do momento
+
+ Listamos nesta semana alguns aplicativos que estão se destacando no mundo inteiro e merecem a sua atenção. 
+ Agora, mostramos os 10 apps mais badalados do momento e por que eles estão ganhando destaque. Continuar lendo o post color: #951111.
+
+ Botao1: circular / background: linear-gradient(0deg, #000000, #000000),
+linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+linear-gradient(0deg, #C0C0C0, #C0C0C0);
+
+botao2: background: linear-gradient(0deg, #000000, #000000),
+linear-gradient(0deg, #D8D8D8, #D8D8D8);
+
+border: 1px solid;
+
+border-image-source: linear-gradient(0deg, #000000, #000000),
+linear-gradient(0deg, #D8D8D8, #D8D8D8);
+
+
+botao 2 e 3 iguais;
+
+
+
+
+
+
+--- DESTAQUES ---
+
+Destaques color: #951111
+
+alt: Criacao de logotipo
+Conheça as primeiras etapas na criação de um logotipo. 
+
+alt: pessoa segurando camera
+Vai trabalhar com fotografia? Então conheça as dicas. 
+
+caixinha de marcacao(esqueci o nome kakakkaka) --- 
+ background: radial-gradient(50% 50% at 50% 50%, #2DA4E7 0%, #2F80ED 100%),
+linear-gradient(0deg, #7D7D7D, #7D7D7D);
+
+border: 1px solid #7D7D7D
+
+btn - Receber destaques por email: background: #951111;
+color: #FFFFFF;
+
+
+
+
+
+
+
+
+--- CONTATO ---
+ contato - color: #951111
+
+ Oi, tudo bem? Fale com a gente. color: #666666;
+
+nome
+email
+telefone
+endereco
+bairro - cidade - estado
+mensagem  
+ 
+ verifique os erros no formulario color: #951111;
+
+btn enviar - background #951111
+
+enviar - Enviar color: #E2E2E2
+
+
+
+
+--- Institucional ---
+
+Um pouco mais sobre a Apeperia
+
+Rua Vergueiro, 3185
+Vila Mariana, São Paulo
+
+(11) 5571-2751 ou
+contato@apeperia.com
+
+video - paulo silveira
+
+--- RODAPE ---
+logo
+
+facebook -instagram -twitter
+
+nav- 
+Sobre
+Planos
+Blog
+Destaques
+Institucional
+Contato

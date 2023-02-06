@@ -1,0 +1,112 @@
+/*classes gerais, as quais tem o mesmo nome/mesma regra .*/
+.planos {
+    background-color:#f4f4f4;
+    width: auto;
+    height: auto;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+
+.tituloplano{
+    color: #ffffff;
+    font-family: 'PT Serif', serif;
+    font-size: 20px;
+    text-align: center;
+
+}
+
+
+
+.valorpl{
+    color: #951111;
+    font-family: 'PT Serif', serif;
+    font-size: 18px;
+    text-align: center;
+}
+
+
+
+.btn-plano{
+    background-color: #951111;
+    color: #fbee75;
+    font-family: 'PT Serif', serif;
+    font-size: 1rem;
+    text-align: center;
+    padding: 5px;
+    border-radius: 5px;
+    border: none;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    width: 90%;
+  
+    cursor: pointer;
+    transition: 0.5s;
+
+}
+
+/* classes com regras #*/
+
+
+.plano-1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #ffffffaa;
+    line-height: 1.5;
+    margin-left: 25%;
+    margin-right: 25%;
+    border-radius: 10px;
+    border: #000000aa 1px solid;
+    margin-bottom: 10px;
+
+
+}
+
+.roxo{
+    background-color: darkviolet;
+    width: 100%;
+    border-radius: 10px;
+}
+
+.plano-2{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #ffffffaa;
+    line-height: 1.5;
+    margin-left: 25%;
+    margin-right: 25%;
+    border-radius: 10px;
+    border: #000000aa 1px solid;
+    margin-bottom: 10px;
+
+}
+
+.vermelho{
+    background-color: darkred;
+    width: 100%;
+    border-radius: 10px;
+}
+.plano-3{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #ffffffaa;
+    line-height: 1.5;
+    margin-left: 25%;
+    margin-right: 25%;
+    border-radius: 10px;
+    border: #000000aa 1px solid;
+    margin-bottom: 10px;
+}
+
+.azul{
+    background-color: rgb(10, 138, 180);
+    width: 100%;
+    border-radius: 10px;
+
+}
+

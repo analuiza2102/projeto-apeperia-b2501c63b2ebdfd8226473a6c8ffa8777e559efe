@@ -1,0 +1,95 @@
+.contato{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #ccc;
+}
+
+
+.titulo-contato{
+    text-align: center;
+    font-size: 2rem;
+    font-weight: 700;
+    margin: 0 0 1rem 0;
+    padding: 0;
+    color: #951111;
+} 
+
+.texto-contato{
+    text-align: center;
+    font-size: 1.2rem;
+    font-weight: 400;
+    margin: 0 0 1rem 0;
+    padding: 0;
+    color: #951111;
+
+}
+
+small{
+    color: #951111;
+    font-size: 1rem;
+    font-weight: 400;
+    margin: 0 0 1rem 0;
+    padding: 0;
+}
+
+ label{
+    width: 100%;
+    padding: 12px;
+    font-size: 16px;
+    color: #951111 ;
+    font-style: 'Open Sans', sans-serif;
+}
+
+
+
+.contato-form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 0 10%;
+
+}
+
+.contato-form input{
+    width: 100%;
+    padding: 12px;
+    font-size: 16px;
+    border: 1px solid #e03d9f;
+    border-radius: 4px;
+    resize: vertical;
+    height: 10px;
+}
+
+#mensagem{
+    height: 100px;
+   
+    width: 100%;
+    padding: 12px;
+
+}
+
+.btn-contato{
+    background-color: #951111;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-top: 1rem;
+    width: 100%;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+    font-size: 1.2rem;
+    align-items: center;
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+
+
+
+
+

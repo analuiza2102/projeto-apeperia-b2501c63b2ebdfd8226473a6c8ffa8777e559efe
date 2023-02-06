@@ -1,0 +1,60 @@
+.chamada-container  {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: auto;
+    width: 100%;
+    color: #FFF;
+    text-align: center;
+    margin-bottom: 20px;
+    max-width: 100%;
+    
+    background-color:#4941418c;
+    box-shadow: 0 2px 10px 2px #66616110;
+    padding-top: 2.25rem;
+
+}
+
+.chamada-titulo {
+    font-family: 'PT Serif', serif;
+    font-size: 20px;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin-bottom: 0.5rem;
+    color: #cb5f5f;
+    max-width: 90%;
+    margin-inline: 28px;
+    line-height: 1.2;
+}
+
+.chamada-texto{
+    line-height: 1.2;
+    font-size: 14px;
+    max-width: 40rem;
+    width: 90%;
+    font-family: 'Open Sans', sans-serif;
+    text-align: start;
+    padding: 7px;
+    margin: 16px 24px 15px 32px;
+}
+
+.chamada-botao{
+    width: 60%;
+    background-color: #951111;
+    border: none;
+    border-radius: 30px;
+    padding: 10px;
+    font-size: 13px;
+    font-weight: 700;
+    text-transform: uppercase;
+    color:#ffd935;
+    cursor: pointer;
+    text-decoration: none;
+    margin-bottom: 2.25rem;
+
+}
+
+.chamada-botao:hover{
+    background-color: #d66060;
+}

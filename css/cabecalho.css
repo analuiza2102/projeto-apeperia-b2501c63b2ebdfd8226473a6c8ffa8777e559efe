@@ -1,0 +1,44 @@
+.cabecalho-container {
+    color: #FFF;
+    background-color: #103d4ade;
+
+    width: 100%;
+
+    box-sizing: border-box;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    
+
+    border-bottom: 1px solid #103D4A;
+    
+}
+
+.cabecalho__logo {
+    margin-bottom: 1rem;
+}
+
+.navegacao-container {
+    text-align: center;
+    font-size: 22px;
+    font-family: 'Open Sans', sans-serif;;
+}
+
+.navegacao {
+    font-size: 18px;
+
+    display: inline-block;
+
+    margin-right: .7rem;
+    margin-bottom: 1.25rem;
+    margin-left: .7rem;
+}
+
+.navegacao li{
+    font-size: 18px;
+    color: #FFF;
+    text-decoration: none;
+
+}
